@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pedro B</h1>
+<h2 align="center">Hi, I'm Pedro B</h2>
 
 <!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bereilhp&show_icons=true&locale=en" alt="bereilhp" /></p>-->
 
