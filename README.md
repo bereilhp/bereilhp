@@ -1,4 +1,44 @@
-<h1 align="center">Hi, I'm bereilhp</h1> 
+<div align="center">
+    <h1>Welcome to my GitHub!</h1>
+    <i>
+        I'm bereilhp
+    </i>
+</div>
+
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+
+### Technologies & Frameworks
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![Electron](https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron)
+
+### OS
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=Ubuntu)
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+
+### Tools and Apps
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+
+<Details>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bereilhp&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereilhp&hide_border=true&card_width=338&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bereilhp&theme=transparent" />
+</p>
+</Details>
+
+
+
+
 
 <!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bereilhp&show_icons=true&locale=en" alt="bereilhp" /></p>-->
 
