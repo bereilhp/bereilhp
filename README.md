@@ -20,6 +20,11 @@
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Electron](https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
+
 ### OS
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=Ubuntu)
