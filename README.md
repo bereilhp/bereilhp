@@ -19,6 +19,7 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Electron](https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron)
+![Docker](https://img.shields.io/badge/electron-black?style=for-the-badge&logo=docker)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
