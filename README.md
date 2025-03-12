@@ -8,6 +8,7 @@
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -16,6 +17,7 @@
 ### Technologies & Frameworks
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Electron](https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron)
@@ -23,6 +25,7 @@
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
 
