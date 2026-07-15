@@ -38,10 +38,3 @@
 ### Tools and Apps
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
-
-<Details>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bereilhp&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereilhp&hide_border=true&card_width=338&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bereilhp&theme=transparent" />
-</p>
