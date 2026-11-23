@@ -1,3 +1,5 @@
+<!--
+
 <div align="center">
     <h1>Welcome to my GitHub!</h1>
     <i>
@@ -38,3 +40,5 @@
 ### Tools and Apps
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+
+-->
